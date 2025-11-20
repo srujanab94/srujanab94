@@ -98,9 +98,9 @@ Starter documentation + API spec + SDK layout for a developer-first integration 
 
 ## 🔗 Connect
 
-- **LinkedIn:** https://linkedin.com/in/bsrujan  
+- **LinkedIn:** https://www.linkedin.com/in/srujan-abraham-kohir-19248b112/
 - **GitHub:** https://github.com/srujanab94  
-- **Email:** srujanakohir@gmail.com  
+- **Email:** srujan.abraham@gmail.com  
 
 ---
 
