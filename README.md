@@ -31,7 +31,7 @@ I’m passionate about transforming fintech stacks with clean APIs, scalable orc
 ---
 
 ## 💼 Current Role  
-**Product Owner – Payment Gateway (APEX)**  
+**Product Manager – Payment Gateway (APEX)**  
 I lead the API stack and developer platform at a fintech payment gateway company, focusing on:
 
 - APEX V1 → V2 gateway migration  
