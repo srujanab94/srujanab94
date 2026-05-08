@@ -60,26 +60,12 @@ These repos are under development and will be published as they reach a professi
 
 ---
 
-## 📫 Let's Connect
-
-I'm open to senior product roles in payments, fintech platforms, and developer tools - particularly at companies building payment infrastructure or embedded finance solutions.
+## 📫 Let's Connec
 
 - **LinkedIn:** [Srujan Abraham Kohir](https://www.linkedin.com/in/srujan-abraham-kohir-19248b112/)
 - **Portfolio:** [srujanab94.github.io/srujan-resume](https://srujanab94.github.io/srujan-resume/)
 - **Email:** srujan.abraham@gmail.com
-- **Location:** Dallas, TX (Open to remote roles)
-
----
-
-## 🌟 Currently Seeking
-
-**Senior Product Manager roles** in:
-- Payment platforms and gateway infrastructure
-- Developer-facing API products
-- Fintech platforms with European presence
-- Companies building payment orchestration or embedded finance
-
-**Target Companies:** Stripe, Block, Adyen, Shopify, Google, and innovative fintech startups
+- **Location:** Dallas, TX (Remote)
 
 ---
 
